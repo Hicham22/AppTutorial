@@ -2,10 +2,10 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3155826404106700/1010021308",
-	  "main_ads_rewardVideo":"",
-      "main_ads_intertitial":"ca-app-pub-3155826404106700/7383857962",
+      "select_backup_ads":"SAN",
+      "main_ads_banner": "ca-app-pub-3155826404106700/2046559355",
+	  "main_ads_rewardVideo":"ca-app-pub-3155826404106700/4920382125",
+      "main_ads_intertitial":"ca-app-pub-3155826404106700/3798872149",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -20,7 +20,7 @@
       "high_paying_keyword_3": "tiga",
       "high_paying_keyword_4": "empat",
       "high_paying_keyword_5": "lima",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": "https://"
     }
   ],
