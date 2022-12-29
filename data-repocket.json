@@ -1,0 +1,79 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3155826404106700/7754035819",
+      "main_ads_intertitial":"ca-app-pub-3155826404106700/2394484659",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Repocket",
+      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Repocket",
+      "title": "Earn For Your Unused Data",
+      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Repocket/Repocket%20Review.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Repocket",
+      "title": "Earn Money With Your Internet",
+      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Repocket/Earn%20Money.html"
+   }
+    ,
+    {
+      "id": 3,
+      "name_category": "Repocket",
+      "title": "How do I install the repocket app?",
+      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Repocket/How%20do%20I%20install.html"
+   } ,
+    {
+      "id": 4,
+      "name_category": "Repocket",
+      "title": "How To Earn",
+      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Repocket/How%20To%20Earn.html"
+   }
+   
+  ]
+}
