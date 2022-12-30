@@ -1,0 +1,120 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3155826404106700/7995979904",
+      "main_ads_intertitial":"ca-app-pub-3155826404106700/1430571554",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"17df8ebfd",
+      "initialize_sdk_backup_ads":"17df8ebfd",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Inboxdollars",
+      "image": "https://dollarsprout.com/wp-content/uploads/2020/01/DollarSprout-Inbox-Dollars-Review-600x230@2x.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Inboxdollars",
+      "title": "How to Earn Your First $30 with InboxDollars",
+      "image": "https://www.inboxdollars.com/blog/wp-content/uploads/sites/2/2019/07/firstpaidemail.jpg",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/How%20to%20Earn%20Your%20First%20%2430.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Inboxdollars",
+      "title": "10 Ways to Make the Most Money with InboxDollars",
+      "image": "https://prod-cdn-thekrazycouponlady.imgix.net/wp-content/uploads/2021/09/woman-using-computer-with-inbox-dollars-referral-program-2021-placeit-1631222020-1631222020-e1631304173400.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/10%20Ways%20to%20Make.html"
+   },
+    {
+      
+      "id": 3,
+      "name_category": "Inboxdollars",
+      "title": "The Ultimate Guide To InboxDollars",
+      "image": "https://ml79npdwpze8.i.optimole.com/w:803/h:451/q:mauto/https://i0.wp.com/earnonline.review/wp-content/uploads/2020/03/inboxdollars-surveys-page.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/The%20Ultimate%20Guide.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Inboxdollars",
+      "title": "How InboxDollars Works and How You Can Earn Real Cash",
+      "image": "https://dollarsprout.com/wp-content/uploads/2020/01/DollarSprout-Inbox-Dollars-Review-600x230@2x.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/How%20InboxDollars.html"
+    },
+        {
+      "id": 5,
+      "name_category": "Inboxdollars",
+      "title": "InboxDollars Review: Here’s How Much I Earned in 24 Hours on the Site",
+      "image": "https://dollarsprout.com/wp-content/uploads/2020/01/DollarSprout-Inbox-Dollars-Review-600x230@2x.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/How%20Much%20I%20Earned%20in.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Inboxdollars",
+      "title": "Earn Cash Through Inbox Dollars",
+      "image": "https://www.livingwellspendingless.com/wp-content/uploads/2014/11/Inbox-Dollars-Coupons.jpg",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/Earn%20Cash%20Through%20Inbox%20Dollars.html"
+   },
+    {
+      
+      "id": 7,
+      "name_category": "Inboxdollars",
+      "title": "InboxDollars Review – Earn Money Taking Surveys",
+      "image": "https://ptmoney.wpenginepowered.com/wp-content/uploads/2019/08/screely-1565718877829.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/Earn%20Money%20Taking%20Surveys.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Inboxdollars",
+      "title": "InboxDollars Review: How Much Money Can You Make?",
+      "image": "https://ptmoney.wpenginepowered.com/wp-content/uploads/2019/08/screely-1565718877829.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/How%20Much%20Money.html"
+    }
+    ,
+    {
+      "id": 9,
+      "name_category": "Inboxdollars",
+      "title": "10 Easy ways to Earn Money with Inbox Dollars –  Ultimate Guide",
+      "image": "https://getsocialguide.com/wp-content/uploads/2020/07/Ways-To-Earn-Money-With-InboxDollars.png",
+      "description": "",
+      "link": "https://hicham22.github.io/AppTutorial/Inboxdollars/10%20Easy%20Ways%20To%20Earn%20.html"
+    }
+  ]
+}
