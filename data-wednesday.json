@@ -1,0 +1,176 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"SAN",
+      "main_ads_banner": "ca-app-pub-3155826404106700/3117497243",
+	  "main_ads_rewardVideo":"ca-app-pub-3155826404106700/4920382125",
+      "main_ads_intertitial":"ca-app-pub-3155826404106700/7986680544",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+	  
+      "interval": 0,
+      "coin_reward": 1000,
+
+      "high_paying_keyword_1": "satu",
+      "high_paying_keyword_2": "dua",
+      "high_paying_keyword_3": "tiga",
+      "high_paying_keyword_4": "empat",
+      "high_paying_keyword_5": "lima",
+      "status_app": "1",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "wednesday",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "wednesday",
+      "title":"1",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/01.jpg",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "wednesday",
+      "title": "2",
+      "image": "https://hicham22.github.io/AppTutorial/wednesday/02.jpg",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "wednesday",
+      "title":"3",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/03.jpg",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "wednesday",
+      "title":"4",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/04.jpg",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "wednesday",
+      "title":"5",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/05.jpg",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "wednesday",
+      "title":"6",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/06.jpg",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "wednesday",
+      "title":"7",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/07.jpg",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "wednesday",
+      "title":"8",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/08.jpg",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "wednesday",
+      "title":"9",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/09.jpg",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "wednesday",
+      "title":"10",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/10.jpg",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "wednesday",
+      "title": "11",
+      "image": "https://hicham22.github.io/AppTutorial/wednesday/11.jpg",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "wednesday",
+      "title":"12",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/12.jpg",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "wednesday",
+      "title":"13",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/13.jpg",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "wednesday",
+      "title":"14",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/14.jpg",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "wednesday",
+      "title":"15",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/15.jpg",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "wednesday",
+      "title":"16",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/16.jpg",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "wednesday",
+      "title":"17",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/17.jpg",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "wednesday",
+      "title":"18",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/18.jpg",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "wednesday",
+      "title":"19",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/19.jpg",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "wednesday",
+      "title":"20",
+      "image":"https://hicham22.github.io/AppTutorial/wednesday/20.jpg",
+      "coin":1000
+    },
+  ]
+}
