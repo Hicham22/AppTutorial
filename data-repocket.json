@@ -3,19 +3,19 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-9100953580091469/7129735733hh",
-      "main_ads_intertitial":"ca-app-pub-9100953580091469/5816654068hhh",
-      "main_ads_natives":"",
+      "main_ads_banner": "ca-app-pub-1375538114322032/3569830919h",
+	    "main_ads_rewardVideo":"",
+      "main_ads_intertitial":"ca-app-pub-1375538114322032/1364154188h",
       "backup_ads_natives":"",
-      "backup_ads_banner":"ca-app-pub-3155826404106700/7754035819g",
-      "backup_ads_intertitial":"ca-app-pub-3155826404106700/2394484659g",
+      "backup_ads_banner":"ca-app-pub-3155826404106700/1010021308",
+      "backup_ads_intertitial":"ca-app-pub-3155826404106700/7383857962",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "interval_intertitial": 1,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"17dfb9e5d",
+      "initialize_sdk_backup_ads":"17dfb9e5d",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -36,44 +36,50 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Repocket",
-      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp"
+      "name_category": "Honeygain",
+      "image": "https://webassets.honeygain.com/uploads/2020/07/28062046/how_it_works_3.svg"
     }
   ],
-  "Data": [
+  "Data": [ 
     {
-      "id": 1,
-      "name_category": "Repocket",
-      "title": "Earn For Your Unused Data",
-      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
-      "description": "",
-      "link": "https://hicham22.github.io/AppTutorial/Repocket/Repocket%20Review.html"
-    },
-    {
-      "id": 2,
-      "name_category": "Repocket",
-      "title": "Earn Money With Your Internet",
-      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
-      "description": "",
-      "link": "https://hicham22.github.io/AppTutorial/Repocket/Earn%20Money.html"
-   }
-    ,
-    {
-      "id": 3,
-      "name_category": "Repocket",
-      "title": "How do I install the repocket app?",
-      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
-      "description": "",
-      "link": "https://hicham22.github.io/AppTutorial/Repocket/How%20do%20I%20install.html"
-   } ,
-    {
-      "id": 4,
-      "name_category": "Repocket",
-      "title": "How To Earn",
-      "image": "https://i0.wp.com/gamersdiscussionhub.com/wp-content/uploads/2022/06/New-Project-15.webp",
-      "description": "",
-      "link": "https://hicham22.github.io/AppTutorial/Repocket/How%20To%20Earn.html"
-   }
-   
+	"id": 0,
+	"name_category": "ADS",
+	"title": "Finish a Short Survey to Win a New iPhone 14 Now!",
+	"image": "https://www.evolvepakistan.org/wp-content/uploads/2022/09/httpsearningkro.com-1200-%C3%97-615-px-36.png",
+	"description": "",
+	"link": "https://hicham22.github.io/AppTutorial/Honeygain/1.html"
+},
+{
+	"id": 0,
+	"name_category": "ADS",
+	"title": "Enter Your Details to Have a Chance to Win a $25,000 in Cash Now!",
+	"image": "https://www.easypestsupplies.com.au/media/wysiwyg/Twitter_Post.png",
+	"description": "",
+	"link": "https://hicham22.github.io/AppTutorial/Honeygain/2.html"
+},
+{
+	"id": 0,
+	"name_category": "ADS",
+	"title": "Finish a Short Survey to Win a $750 Shein Gift Card Now!",
+	"image": "https://fitmesolution.com/wp-content/uploads/2021/12/E-qYRvcWQAIr-i-.jpeg",
+	"description": "",
+	"link": "https://hicham22.github.io/AppTutorial/Honeygain/3.html"
+},
+{
+	"id": 0,
+	"name_category": "ADS",
+	"title": "Finish Our Survey and Win a $500 JetBlue Gift Card Now!",
+	"image": "https://www.prizestakes.com/wp-content/uploads/2015/03/jetblue.jpg",
+	"description": "",
+	"link": "https://hicham22.github.io/AppTutorial/Honeygain/4.html"
+},
+{
+	"id": 0,
+	"name_category": "ADS",
+	"title": "WIN $250! Pepsi vs Coca-Cola",
+	"image": "https://i.ytimg.com/vi/7rwL1Jzab0A/maxresdefault.jpg",
+	"description": "",
+	"link": "https://hicham22.github.io/AppTutorial/Honeygain/5.html"
+}
   ]
 }
